@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenish Kanani</h1>
-<h3 align="center">Passionate Web Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">Passionate Web Developer</h3>
 
 <p align="center">
   <em>Focused on mastering technologies like <strong>MongoDB</strong>, <strong>Node.js</strong>, and <strong>React.js</strong> to build dynamic, efficient, and user-friendly web applications. Eager to contribute to innovative projects and enhance full-stack development skills.</em>
